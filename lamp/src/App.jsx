@@ -1,7 +1,7 @@
 import './App.css';
 import Image from './component/Image/Image';
 import Button from "./component/Button/Button";
-import { useState } from 'react';
+import React, { useState } from 'react';
 // import React, { Component } from "react";
 import Light from './entity/Light'
 

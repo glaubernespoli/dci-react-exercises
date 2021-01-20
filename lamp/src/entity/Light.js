@@ -5,6 +5,9 @@
  * more can be read here: https://create-react-app.dev/docs/using-the-public-folder/
  */
 export default class Light {
+    /**
+     * @type {string}
+     */
     imagePath;
     imageAlt;
     switchButton;
